@@ -1,0 +1,15 @@
+C:\Users\BENAHMAD\source\repos\week2IFstatements\week2IFstatements\bin\Debug\net6.0\week2IFstatements.exe
+C:\Users\BENAHMAD\source\repos\week2IFstatements\week2IFstatements\bin\Debug\net6.0\week2IFstatements.deps.json
+C:\Users\BENAHMAD\source\repos\week2IFstatements\week2IFstatements\bin\Debug\net6.0\week2IFstatements.runtimeconfig.json
+C:\Users\BENAHMAD\source\repos\week2IFstatements\week2IFstatements\bin\Debug\net6.0\week2IFstatements.dll
+C:\Users\BENAHMAD\source\repos\week2IFstatements\week2IFstatements\bin\Debug\net6.0\ref\week2IFstatements.dll
+C:\Users\BENAHMAD\source\repos\week2IFstatements\week2IFstatements\bin\Debug\net6.0\week2IFstatements.pdb
+C:\Users\BENAHMAD\source\repos\week2IFstatements\week2IFstatements\obj\Debug\net6.0\week2IFstatements.csproj.AssemblyReference.cache
+C:\Users\BENAHMAD\source\repos\week2IFstatements\week2IFstatements\obj\Debug\net6.0\week2IFstatements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BENAHMAD\source\repos\week2IFstatements\week2IFstatements\obj\Debug\net6.0\week2IFstatements.AssemblyInfoInputs.cache
+C:\Users\BENAHMAD\source\repos\week2IFstatements\week2IFstatements\obj\Debug\net6.0\week2IFstatements.AssemblyInfo.cs
+C:\Users\BENAHMAD\source\repos\week2IFstatements\week2IFstatements\obj\Debug\net6.0\week2IFstatements.csproj.CoreCompileInputs.cache
+C:\Users\BENAHMAD\source\repos\week2IFstatements\week2IFstatements\obj\Debug\net6.0\week2IFstatements.dll
+C:\Users\BENAHMAD\source\repos\week2IFstatements\week2IFstatements\obj\Debug\net6.0\ref\week2IFstatements.dll
+C:\Users\BENAHMAD\source\repos\week2IFstatements\week2IFstatements\obj\Debug\net6.0\week2IFstatements.pdb
+C:\Users\BENAHMAD\source\repos\week2IFstatements\week2IFstatements\obj\Debug\net6.0\week2IFstatements.genruntimeconfig.cache
